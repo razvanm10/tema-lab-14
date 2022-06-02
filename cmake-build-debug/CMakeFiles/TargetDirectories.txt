@@ -1,0 +1,3 @@
+/Users/razvan/CLionProjects/TemaLab14/cmake-build-debug/CMakeFiles/TemaLab14.dir
+/Users/razvan/CLionProjects/TemaLab14/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/razvan/CLionProjects/TemaLab14/cmake-build-debug/CMakeFiles/rebuild_cache.dir

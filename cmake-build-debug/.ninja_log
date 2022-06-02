@@ -1,0 +1,25 @@
+# ninja log v5
+4	356	1653438788410381086	CMakeFiles/TemaLab14.dir/Exercitiul2/data_extractor_animal_2/DataAnimalExtractor.cpp.o	c028ae01dc16db3a
+1	385	1653435178709047407	CMakeFiles/TemaLab14.dir/Exercitiul3/lista_masini/ListaMasini.cpp.o	9535e5c6085a8c38
+2	350	1653433258186051331	CMakeFiles/TemaLab14.dir/Exercitiul3/masina/Masina.cpp.o	c97c75132dfbcfc3
+1	227	1653396966346143411	CMakeFiles/TemaLab14.dir/Exercitiul3/Proprietar/Proprietar.cpp.o	e007589ec3d22901
+1	556	1653438365809482291	CMakeFiles/TemaLab14.dir/Exercitul1/lista_patinatori/List.cpp.o	1f88ca9cf23adc01
+1	227	1653348584009443925	CMakeFiles/TemaLab14.dir/Exercitul1/patinator/Patinator.cpp.o	cefc0c2c110c0caf
+2	240	1653344107477437397	CMakeFiles/TemaLab14.dir/Exercitul1/data_as_string_service/DataAsStringService.cpp.o	3089e95d07b4521b
+1	391	1653420998553598800	CMakeFiles/TemaLab14.dir/Exercitiul3/data_extractor/DataExtractorPropietar.cpp.o	d5d98659b2b4b891
+1	436	1653473962205437075	CMakeFiles/TemaLab14.dir/main.cpp.o	2d27c3a7ab7bf426
+436	470	1653473962242447446	TemaLab14	fd98b8716d9fdcf8
+1	391	1653420998555041160	CMakeFiles/TemaLab14.dir/Exercitiul3/data_extractor_masina/DataExtractorMasina.cpp.o	57fd89e9d22d4ae5
+1	252	1653441903537843447	CMakeFiles/TemaLab14.dir/Exercitiul2/list_animals/ListAnimals.cpp.o	910d10e3121c9692
+1	493	1653438365749581691	CMakeFiles/TemaLab14.dir/Exercitiul2/animal/Animal.cpp.o	eafaec9041ab2dba
+2	475	1653256279135605860	CMakeFiles/TemaLab14.dir/Exercitul1/DataAsString.cpp.o	a6af3d118fbaeedd
+1	224	1653438530057219835	CMakeFiles/TemaLab14.dir/Exercitiul2/data_extractor_animal/DataExtractorAnimal.cpp.o	9e2d2b7a7c981ab3
+1	526	1653438365782024171	CMakeFiles/TemaLab14.dir/Exercitiul2/data_as_string_service/DataAsStringService.cpp.o	5a59d3e8b50ed5d3
+1	525	1653438365779050563	CMakeFiles/TemaLab14.dir/Exercitul1/data_extractor/DataExtractor.cpp.o	3fe17cb6a96cc379
+0	49	1654158075680466916	build.ninja	547c734a6bdf9d55
+1	137	1653232655993758308	CMakeFiles/TemaLab14.dir/Exercitul1/Executable.cpp.o	3ba007f90251bfda
+1	137	1653232655993761641	CMakeFiles/TemaLab14.dir/Exercitul1/Patinator.cpp.o	3665d7a14f5e37bb
+1	230	1653342989191858954	CMakeFiles/TemaLab14.dir/Exercitul1/DataService.cpp.o	61a28187a7ab7872
+2	475	1653438365729310345	CMakeFiles/TemaLab14.dir/Exercitiul2/data_extractor/DataExtractorAnimal.cpp.o	af49d136212074ae
+2	252	1653344107490309431	CMakeFiles/TemaLab14.dir/Exercitul1/data_splitter/DataSplitter.cpp.o	e9798eaa66219885
+1	408	1653398182015431826	CMakeFiles/TemaLab14.dir/Exercitiul3/data_as_string_service/DataAsStringService.cpp.o	37958e413614c968
